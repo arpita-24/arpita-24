@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Arpita</h1>
-<h3 align="center">Full Stack Developer | ML Enthusiast</h3>
+<h3 align="center">A Full Stack Developer & ML Enthusiast</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
