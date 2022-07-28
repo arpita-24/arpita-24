@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **www.linkedin.com/in/arpitaMohanty24**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
