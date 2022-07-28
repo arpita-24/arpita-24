@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Arpita</h1>
 <h3 align="center">A Full Stack Developer & ML Enthusiast</h3>
-<p align="center">
-- 🔭 I’m currently working on **Full Stack Development**
+<p align="center"> - 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **AWS** </p>
 
